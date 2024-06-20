@@ -1,4 +1,4 @@
-# GPT-2 alpaca clean
+# GPT-2 Alpaca Clean
 
 This repository contains a finetuned version of the GPT-2 language model, 
 trained on the [alpaca-cleaned](https://huggingface.co/datasets/yahma/alpaca-cleaned)
