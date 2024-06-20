@@ -3,7 +3,7 @@
 This repository contains a finetuned version of the GPT-2 language model, 
 trained on the [alpaca-cleaned](https://huggingface.co/datasets/yahma/alpaca-cleaned)
 dataset. The alpaca-cleaned dataset is a cleaned and filtered version of the 
-Stanford Alpaca dataset. Get the model [here](https://huggingface.co/Rjonah321/gpt2-alpaca-clean) 
+Stanford Alpaca dataset. Get the model [here](https://huggingface.co/Rjonah321/gpt2-alpaca-clean). 
 The model showed improvements on instruction related tasks.
 
 ![graph](loss_curve.png)
