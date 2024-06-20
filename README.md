@@ -1,6 +1,6 @@
 # GPT-2 Alpaca Clean
 
-This repository contains a finetuned version of the GPT-2 language model, 
+This repository contains a fine-tuned version of the GPT-2 language model, 
 trained on the [alpaca-cleaned](https://huggingface.co/datasets/yahma/alpaca-cleaned)
 dataset. The alpaca-cleaned dataset is a cleaned and filtered version of the 
 Stanford Alpaca dataset. Get the model [here](https://huggingface.co/Rjonah321/gpt2-alpaca-clean). 
@@ -10,11 +10,11 @@ The model showed improvements on instruction related tasks.
 
 ## Model Details
 
-The GPT-2 model was finetuned using the Hugging Face Transformers library on the alpaca-cleaned dataset. The finetuned model can be used for various natural language processing tasks, such as text generation, summarization, and question answering.
+The GPT-2 model was fine-tuned using the Hugging Face Transformers library on the alpaca-cleaned dataset. The fine-tuned model can be used for various natural language processing tasks, such as text generation, summarization, and question answering.
 
 ## Usage
 
-To use the finetuned model, you can load it using the Hugging Face Transformers library. Here's an example:
+To use the fine-tuned model, you can load it using the Hugging Face Transformers library. Here's an example:
 
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
